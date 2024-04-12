@@ -1,6 +1,5 @@
 package net.xiaoyu233.classkit.tools;
 
-import com.sun.java.swing.plaf.windows.WindowsLookAndFeel;
 import net.xiaoyu233.classkit.config.RecorderConfig;
 import net.xiaoyu233.classkit.event.EventType;
 import net.xiaoyu233.classkit.gui.table.TodayClassTable;
