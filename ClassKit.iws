@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f57779b8-f015-4809-8aca-bee21dbd69fb" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Class.csv" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Class.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/net/xiaoyu233/classkit/RandomChoose.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/net/xiaoyu233/classkit/av/AudioReuseStream.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/net/xiaoyu233/classkit/gui/RandomWindowMain.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/net/xiaoyu233/classkit/io/ClassCodec.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/net/xiaoyu233/classkit/random/ClassRandomizer.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/net/xiaoyu233/classkit/util/ProbabilityTest.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="263j7Qj30kyWKTPSuWk595GdFXP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IDEAProjects/ClassKit&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;,
+      &quot;TEXT&quot;
+    ]
+  }
+}</component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAProjects\ClassKit" />
+      <recent name="D:\IDEAProjects\ClassKit\src" />
+      <recent name="D:\IDEAProjects\ClassKit\libs" />
+      <recent name="G:\IDEAProjects\ClassKit\src" />
+      <recent name="E:\IDEAProjects\ClassKit" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEAProjects\ClassKit" />
+      <recent name="D:\IDEAProjects\ClassKit\src\com\melloware\jintellitype\windows" />
+      <recent name="G:\IDEAProjects\ClassKit" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PosManagerMain">
+    <configuration name="ClassImporter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.xiaoyu233.classkit.util.ClassImporter" />
+      <module name="ClassKit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.xiaoyu233.classkit.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.xiaoyu233.classkit.ClassLauncher" />
+      <module name="ClassKit" />
+      <option name="VM_PARAMETERS" value="-Xmx10G" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.xiaoyu233.classkit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PosManagerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.xiaoyu233.classkit.PosManagerMain" />
+      <module name="ClassKit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.xiaoyu233.classkit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomChoose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.xiaoyu233.classkit.RandomChoose" />
+      <module name="ClassKit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.xiaoyu233.classkit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResourcePlayerLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.xiaoyu233.classkit.ResourcePlayerLauncher" />
+      <module name="ClassKit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.xiaoyu233.classkit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scratch" type="Java Scratch" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <module name="ClassKit" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.java" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClassImporter" />
+      <item itemvalue="Application.ClassLauncher" />
+      <item itemvalue="Application.PosManagerMain" />
+      <item itemvalue="Application.RandomChoose" />
+      <item itemvalue="Application.ResourcePlayerLauncher" />
+      <item itemvalue="Java Scratch.Scratch" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PosManagerMain" />
+        <item itemvalue="Application.RandomChoose" />
+        <item itemvalue="Application.ClassLauncher" />
+        <item itemvalue="Application.ClassImporter" />
+        <item itemvalue="Application.ResourcePlayerLauncher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f57779b8-f015-4809-8aca-bee21dbd69fb" name="Changes" comment="" />
+      <created>1646659001080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646659001080</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/javacv-1.5.2-sources.jar!/org/bytedeco/javacv/FFmpegFrameRecorder.java</url>
+          <line>1259</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../Java/jdk1.8.0_261/src.zip!/java/io/FileOutputStream.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/xiaoyu233/classkit/util/profiler/ProfilerSystem.java</url>
+          <line>170</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/xiaoyu233/classkit/util/profiler/ProfileResultImpl.java</url>
+          <line>152</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/xiaoyu233/classkit/util/natives/FindWindowEnhance.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/xiaoyu233/classkit/tools/FFmpegRecordTool.java</url>
+          <line>78</line>
+          <properties>
+            <option name="lambda-ordinal" value="0" />
+          </properties>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://G:/Program Files/Java/jdk1.8.0_261/src.zip!/java/security/SecureRandom.java</url>
+          <line>203</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://G:/Program Files/Java/jdk1.8.0_261/src.zip!/java/security/SecureRandom.java</url>
+          <line>208</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/xiaoyu233/classkit/av/FrameStreamer.java</url>
+          <line>160</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/xiaoyu233/classkit/av/processors/RNNNoiseSuppressor.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/xiaoyu233/classkit/av/processors/RNNNoiseSuppressor.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/xiaoyu233/classkit/av/WenDaoGrabber.java</url>
+          <line>128</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/xiaoyu233/classkit/util/natives/loopback_capture/CaptureDataLine.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/xiaoyu233/classkit/ClassLauncher.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../Java/jdk-11/lib/src.zip!/java.desktop/com/sun/media/sound/DirectAudioDevice.java</url>
+          <line>642</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/xiaoyu233/classkit/random/Randomizer.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/xiaoyu233/classkit/api/ClassSize.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.bytedeco.javacv.FrameRecorder$Exception" package="org.bytedeco.javacv" />
+          <option name="timeStamp" value="61" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="97" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="208" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NegativeArraySizeException" package="java.lang" />
+          <option name="timeStamp" value="210" />
+        </breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/src/net/xiaoyu233/classkit/av/processors/ResizingProcess.java</url>
+          <line>38</line>
+          <properties class="net.xiaoyu233.classkit.av.processors.ResizingProcess" method="switchInterpolationMethod">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/src/net/xiaoyu233/classkit/av/AudioSample.java</url>
+          <line>32</line>
+          <properties class="net.xiaoyu233.classkit.av.AudioSample" method="readFromDataLine">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/net/xiaoyu233/classkit/gui/PosManagerWindow.java</url>
+          <line>38</line>
+          <properties class="net.xiaoyu233.classkit.gui.PosManagerWindow" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.bytedeco.opencv.opencv_core.Mat" memberName="address" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Java Scratch">
+        <watch expression="dataLine.available()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ClassKit$net_xiaoyu233_classkit_ClassLauncher.ic" NAME="net.xiaoyu233.classkit.ClassLauncher Coverage Results" MODIFIED="1649206429963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>net.xiaoyu233.classkit.*</FILTER>
+    </SUITE>
+  </component>
+</project>
